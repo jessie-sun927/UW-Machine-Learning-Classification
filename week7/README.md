@@ -1,5 +1,5 @@
 ## Week7 Topics:
-* stochastic gradient ascent
+* Stochastic gradient ascent
   - adapt for new data
   - very sensitive to parameters, noisy convergence
 * Mini-batch gradient ascent 
@@ -8,7 +8,7 @@
 * stochastic gradient ascent, mini-batch gradient ascent
 
 
-## # Training Logistic Regression via Stochastic Gradient Ascent
+## Implementation Details of Programming Assignment:
 
 Goal: implement a logistic regression classifier using stochastic gradient ascent, mini-batch gradient ascent
 
